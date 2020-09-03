@@ -32,7 +32,7 @@
     "ffi": "github:izhoule/node-ffi",
     "function-class": "^1.0.0",
     "ref": "github:izhoule/ref",
-    "ref-struct": "^1.0.2",
+    "ref-struct": "github:izhoule/ref-struct",
     "setprototypeof": "^1.0.0"
   },
   "devDependencies": {
