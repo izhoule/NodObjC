@@ -30,7 +30,7 @@
   "dependencies": {
     "debug": "*",
     "ffi": "github:izhoule/node-ffi",
-    "function-class": "^1.0.0",
+    "function-class": "github:izhoule/node-function-class",
     "ref": "github:izhoule/ref",
     "ref-struct": "github:izhoule/ref-struct",
     "setprototypeof": "^1.0.0"
