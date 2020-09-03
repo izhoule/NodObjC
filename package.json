@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "git+https://github.com/izhoule/node-ffi.git",
+    "ffi": "github:izhoule/node-ffi",
     "function-class": "^1.0.0",
-    "ref": "git+https://github.com/izhoule/ref.git",
+    "ref": "github:izhoule/ref",
     "ref-struct": "^1.0.2",
     "setprototypeof": "^1.0.0"
   },
